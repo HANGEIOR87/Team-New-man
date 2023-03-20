@@ -1,0 +1,178 @@
+{
+	"id": "dffa5d9c-0fa6-484f-8f15-616d5b099334",
+	"name": "APICollection",
+	"timestamp": "2023-03-10T18:39:18.524Z",
+	"collection_id": "25900132-abcd3adb-83b3-407c-88a8-8f52e918f345",
+	"folder_id": 0,
+	"environment_id": "25900132-b4d56b9b-bc42-469b-87c9-fb07cfc2ffee",
+	"totalPass": 14,
+	"delay": 0,
+	"persist": true,
+	"status": "error",
+	"startedAt": "2023-03-10T18:39:15.801Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "e50ba80d-3d05-47cc-adf1-8d7bff656fab",
+			"name": "New Request",
+			"url": "https://petstore.swagger.io/v2/swagger.json",
+			"time": 453,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code should be 200": true,
+				"Status code name should have an OK string": true,
+				"Confirm that swagger is 2.0": true,
+				"Confirm that tag with Pets is present": true,
+				"Confirm that tag with description of 'Everything about your Pets' is 0": true,
+				"Confirm that tag with store is present": true,
+				"Confirm that tag with user is present": true
+			},
+			"testPassFailCounts": {
+				"Status code should be 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code name should have an OK string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that swagger is 2.0": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that tag with Pets is present": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that tag with description of 'Everything about your Pets' is 0": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that tag with store is present": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that tag with user is present": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				453
+			],
+			"allTests": [
+				{
+					"Status code should be 200": true,
+					"Status code name should have an OK string": true,
+					"Confirm that swagger is 2.0": true,
+					"Confirm that tag with Pets is present": true,
+					"Confirm that tag with description of 'Everything about your Pets' is 0": true,
+					"Confirm that tag with store is present": true,
+					"Confirm that tag with user is present": true
+				}
+			]
+		},
+		{
+			"id": "183ea9a2-12b2-4740-9214-2aef23520928",
+			"name": "swagger API Test updated",
+			"url": "https://petstore.swagger.io/v2/swagger.json",
+			"time": 293,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code should be 200": true,
+				"Status code name should have an OK string": true,
+				"Confirm that swagger is 2.0": true,
+				"Confirm that tag with Pets is present": true,
+				"Confirm that tag with description of 'Everything about your Pets' is 0": true,
+				"Confirm that tag with store is present": true,
+				"Confirm that tag with user is present": true
+			},
+			"testPassFailCounts": {
+				"Status code should be 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code name should have an OK string": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that swagger is 2.0": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that tag with Pets is present": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that tag with description of 'Everything about your Pets' is 0": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that tag with store is present": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Confirm that tag with user is present": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				293
+			],
+			"allTests": [
+				{
+					"Status code should be 200": true,
+					"Status code name should have an OK string": true,
+					"Confirm that swagger is 2.0": true,
+					"Confirm that tag with Pets is present": true,
+					"Confirm that tag with description of 'Everything about your Pets' is 0": true,
+					"Confirm that tag with store is present": true,
+					"Confirm that tag with user is present": true
+				}
+			]
+		},
+		{
+			"id": "29403617-5286-453b-bab1-68834f176290",
+			"name": "swagger API Test",
+			"url": "https://petstore.swagger.io/v2swagger.json?swagger.json_name={{entityName}}&swagger.json_description={{description}}",
+			"time": 251,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				251
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 997,
+	"collection": {
+		"requests": [
+			{
+				"id": "e50ba80d-3d05-47cc-adf1-8d7bff656fab",
+				"method": "GET"
+			},
+			{
+				"id": "183ea9a2-12b2-4740-9214-2aef23520928",
+				"method": "GET"
+			},
+			{
+				"id": "29403617-5286-453b-bab1-68834f176290",
+				"method": "GET"
+			}
+		]
+	}
+}
