@@ -1,28 +1,28 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: http://192.168.43.172:53013/index.html
+Snapshot-Content-Location: http://192.168.43.172:54537/index.html
 Subject: Allure Report
-Date: Fri, 24 Mar 2023 11:58:25 -0000
+Date: Fri, 24 Mar 2023 13:18:26 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--YjNApvyp84gWaXm1cuCMQooUa8o0jaRW3s7cMVcjIs----"
+	boundary="----MultipartBoundary--hOwLJ1lZhrRjDhn0lXnkPsy0SQTEAGrhS7zblAsfHw----"
 
 
-------MultipartBoundary--YjNApvyp84gWaXm1cuCMQooUa8o0jaRW3s7cMVcjIs----
+------MultipartBoundary--hOwLJ1lZhrRjDhn0lXnkPsy0SQTEAGrhS7zblAsfHw----
 Content-Type: text/html
-Content-ID: <frame-4BCCD6B13A2F8BDC358A60B3A2FB1E4C@mhtml.blink>
+Content-ID: <frame-61A143F576093CF1AADEFCAEB0DAF778@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://192.168.43.172:53013/index.html
+Content-Location: http://192.168.43.172:54537/index.html
 
 <!DOCTYPE html><html dir=3D"ltr"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8">
    =20
     <title>Allure Report</title>
-    <link rel=3D"favicon" href=3D"http://192.168.43.172:53013/favicon.ico?v=
+    <link rel=3D"favicon" href=3D"http://192.168.43.172:54537/favicon.ico?v=
 =3D2">
     <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://192.168.43.17=
-2:53013/styles.css">
-        <link rel=3D"stylesheet" href=3D"http://192.168.43.172:53013/plugin=
+2:54537/styles.css">
+        <link rel=3D"stylesheet" href=3D"http://192.168.43.172:54537/plugin=
 s/screen-diff/styles.css">
 </head>
 <body data-new-gr-c-s-check-loaded=3D"14.1101.0" data-gr-ext-installed=3D""=
@@ -30,55 +30,55 @@ s/screen-diff/styles.css">
 <div id=3D"alert"></div>
 <div id=3D"content"><div class=3D"app"><div class=3D"app__nav"><div class=
 =3D"side-nav"><div class=3D"side-nav__head">
-    <a href=3D"http://192.168.43.172:53013/" class=3D"side-nav__brand">
+    <a href=3D"http://192.168.43.172:54537/" class=3D"side-nav__brand">
         <span class=3D"side-nav__brand-text">Allure</span>
     </a>
 </div>
 <ul class=3D"side-nav__menu">
         <li class=3D"side-nav__item" data-tooltip=3D"Overview">
-            <a href=3D"http://192.168.43.172:53013/index.html#" class=3D"si=
+            <a href=3D"http://192.168.43.172:54537/index.html#" class=3D"si=
 de-nav__link side-nav__link_active">
                 <span class=3D"side-nav__icon fa fa-home"></span>
                 <div class=3D"side-nav__text">Overview</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Categories">
-            <a href=3D"http://192.168.43.172:53013/index.html#categories" c=
+            <a href=3D"http://192.168.43.172:54537/index.html#categories" c=
 lass=3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-flag"></span>
                 <div class=3D"side-nav__text">Categories</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Suites">
-            <a href=3D"http://192.168.43.172:53013/index.html#suites" class=
+            <a href=3D"http://192.168.43.172:54537/index.html#suites" class=
 =3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-briefcase"></span>
                 <div class=3D"side-nav__text">Suites</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Graphs">
-            <a href=3D"http://192.168.43.172:53013/index.html#graph" class=
+            <a href=3D"http://192.168.43.172:54537/index.html#graph" class=
 =3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-bar-chart"></span>
                 <div class=3D"side-nav__text">Graphs</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Timeline">
-            <a href=3D"http://192.168.43.172:53013/index.html#timeline" cla=
+            <a href=3D"http://192.168.43.172:54537/index.html#timeline" cla=
 ss=3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-clock-o"></span>
                 <div class=3D"side-nav__text">Timeline</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Behaviors">
-            <a href=3D"http://192.168.43.172:53013/index.html#behaviors" cl=
+            <a href=3D"http://192.168.43.172:54537/index.html#behaviors" cl=
 ass=3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-list"></span>
                 <div class=3D"side-nav__text">Behaviors</div>
             </a>
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Packages">
-            <a href=3D"http://192.168.43.172:53013/index.html#packages" cla=
+            <a href=3D"http://192.168.43.172:54537/index.html#packages" cla=
 ss=3D"side-nav__link">
                 <span class=3D"side-nav__icon fa fa-align-left"></span>
                 <div class=3D"side-nav__text">Packages</div>
@@ -112,11 +112,11 @@ ts-grid__col"><div class=3D"widget island" data-id=3D"summary">
         <h2 class=3D"widget__title">
                 Allure Report 3/24/2023
             <div class=3D"widget__subtitle">
-                11:07:01 - 11:51:32 (44m 30s)
+                11:07:01 - 14:01:47 (2h 54m)
             </div>
         </h2>
         <div class=3D"summary-widget__stats splash">
-            <div class=3D"splash__title">17</div>
+            <div class=3D"splash__title">18</div>
             <div class=3D"splash__subtitle">test cases</div>
         </div>
     </div>
@@ -124,16 +124,16 @@ ts-grid__col"><div class=3D"widget island" data-id=3D"summary">
 chart__svg">
     <g class=3D"chart__plot" transform=3D"translate(133.75,101)"><path clas=
 s=3D"chart__arc chart__fill_status_broken" d=3D"M5.572142936120457e-15,-91A=
-91,91,0,1,1,-16.721206121307887,89.45055207123507L-13.376964897046308,71.56=
-044165698805A72.8,72.8,0,1,0,4.457714348896366e-15,-72.8Z"></path><path cla=
-ss=3D"chart__arc chart__fill_status_skipped" d=3D"M-16.721206121307887,89.4=
-5055207123507A91,91,0,0,1,-47.90532682183935,77.3697593513949L-38.324261457=
-47148,61.895807481115924A72.8,72.8,0,0,0,-13.376964897046308,71.56044165698=
-805Z"></path><path class=3D"chart__arc chart__fill_status_passed" d=3D"M-47=
-.90532682183935,77.3697593513949A91,91,0,0,1,-1.671642880836137e-14,-91L-1.=
-3373143046689095e-14,-72.8A72.8,72.8,0,0,0,-38.32426145747148,61.8958074811=
-15924Z"></path><text class=3D"chart__caption" dy=3D"0.4em" style=3D"font-si=
-ze: 30.3333px;">41.17%</text></g>
+91,91,0,0,1,89.61750552411092,-15.801984167690662L71.69400441928875,-12.641=
+587334152529A72.8,72.8,0,0,0,4.457714348896366e-15,-72.8Z"></path><path cla=
+ss=3D"chart__arc chart__fill_status_skipped" d=3D"M89.61750552411092,-15.80=
+1984167690662A91,91,0,0,1,89.61750552411092,15.801984167690662L71.694004419=
+28875,12.641587334152529A72.8,72.8,0,0,0,71.69400441928875,-12.641587334152=
+529Z"></path><path class=3D"chart__arc chart__fill_status_passed" d=3D"M89.=
+61750552411092,15.801984167690662A91,91,0,1,1,-1.671642880836137e-14,-91L-1=
+.3373143046689095e-14,-72.8A72.8,72.8,0,1,0,71.69400441928875,12.6415873341=
+52529Z"></path><text class=3D"chart__caption" dy=3D"0.4em" style=3D"font-si=
+ze: 30.3333px;">72.22%</text></g>
     <g class=3D"chart__axis chart__axis_x"></g>
     <g class=3D"chart__axis chart__axis_y"></g>
 </svg></div></div>
@@ -148,17 +148,17 @@ ze: 30.3333px;">41.17%</text></g>
     <span class=3D"widget__subtitle">1 item total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://192.168.43.172:53013/index.h=
+        <a class=3D"table__row" href=3D"http://192.168.43.172:54537/index.h=
 tml#suites/8399274b4bb69ec8699907dd6ef7de4e">
             <div class=3D"table__col">Default Suite</div>
             <div class=3D"table__col">
                 <div class=3D"bar"><div class=3D"bar__fill bar__fill_status=
-_broken" style=3D"flex-grow: 9">9</div><div class=3D"bar__fill bar__fill_st=
-atus_passed" style=3D"flex-grow: 7">7</div><div class=3D"bar__fill bar__fil=
-l_status_skipped" style=3D"flex-grow: 1">1</div></div>
+_broken" style=3D"flex-grow: 4">4</div><div class=3D"bar__fill bar__fill_st=
+atus_passed" style=3D"flex-grow: 13">13</div><div class=3D"bar__fill bar__f=
+ill_status_skipped" style=3D"flex-grow: 1">1</div></div>
             </div>
         </a>
-        <a class=3D"table__row" href=3D"http://192.168.43.172:53013/index.h=
+        <a class=3D"table__row" href=3D"http://192.168.43.172:54537/index.h=
 tml#suites">
             <div class=3D"table__col table__col_center">
                 Show all
@@ -181,10 +181,10 @@ tml#suites">
     </div>
     <div class=3D"widget__body"><div><h2 class=3D"widget__title">
     Features by stories
-    <span class=3D"widget__subtitle">17 items total</span>
+    <span class=3D"widget__subtitle">18 items total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://192.168.43.172:53013/index.h=
+        <a class=3D"table__row" href=3D"http://192.168.43.172:54537/index.h=
 tml#behaviors">
             <div class=3D"table__col table__col_center">
                 Show all
@@ -213,15 +213,15 @@ re is nothing to show</div></div></div>
     <span class=3D"widget__subtitle">1 item total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://192.168.43.172:53013/index.h=
+        <a class=3D"table__row" href=3D"http://192.168.43.172:54537/index.h=
 tml#categories/bdbf199525818fae7a8651db9eafe741">
             <div class=3D"table__col">Test defects</div>
             <div class=3D"table__col">
                 <div class=3D"bar"><div class=3D"bar__fill bar__fill_status=
-_broken" style=3D"flex-grow: 9">9</div></div>
+_broken" style=3D"flex-grow: 4">4</div></div>
             </div>
         </a>
-        <a class=3D"table__row" href=3D"http://192.168.43.172:53013/index.h=
+        <a class=3D"table__row" href=3D"http://192.168.43.172:54537/index.h=
 tml#categories">
             <div class=3D"table__col table__col_center">
                 Show all
@@ -259,10 +259,10 @@ aria-label=3D"grammarly-integration" role=3D"group" tabindex=3D"-1" class=
 =3D"grammarly-desktop-integration" data-content=3D"{&quot;mode&quot;:&quot;=
 limited&quot;,&quot;isActive&quot;:false,&quot;isUserDisabled&quot;:false}"=
 ></div></template></grammarly-desktop-integration></html>
-------MultipartBoundary--YjNApvyp84gWaXm1cuCMQooUa8o0jaRW3s7cMVcjIs----
+------MultipartBoundary--hOwLJ1lZhrRjDhn0lXnkPsy0SQTEAGrhS7zblAsfHw----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://192.168.43.172:53013/styles.css
+Content-Location: http://192.168.43.172:54537/styles.css
 
 @charset "utf-8";
 
@@ -9827,10 +9827,10 @@ ive; padding-top: 50%; }
 .environment__key { color: rgb(153, 153, 153); }
 
 .testresult-link:not(:last-child)::after { content: ","; }
-------MultipartBoundary--YjNApvyp84gWaXm1cuCMQooUa8o0jaRW3s7cMVcjIs----
+------MultipartBoundary--hOwLJ1lZhrRjDhn0lXnkPsy0SQTEAGrhS7zblAsfHw----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://192.168.43.172:53013/plugins/screen-diff/styles.css
+Content-Location: http://192.168.43.172:54537/plugins/screen-diff/styles.css
 
 @charset "utf-8";
 
@@ -9847,4 +9847,4 @@ b(255, 255, 255); position: absolute; overflow: hidden; box-shadow: rgb(170=
 , 170, 170) 2px 0px 1px -1px; }
 
 .screen-diff-error { color: rgb(253, 90, 62); }
-------MultipartBoundary--YjNApvyp84gWaXm1cuCMQooUa8o0jaRW3s7cMVcjIs------
+------MultipartBoundary--hOwLJ1lZhrRjDhn0lXnkPsy0SQTEAGrhS7zblAsfHw------
